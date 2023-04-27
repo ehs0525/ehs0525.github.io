@@ -83,8 +83,8 @@ console.log(myFood.smell === myFood2.smell);	// true
 
 smell 함수를 프로토타입에 등록해두고 나니 더 이상 Food 생성자에 this를 써서 smell 함수를 등록할 필요가 없어졌습니다.
 
-![image-20230428004247371](./../images/2023-04-27-prototype/image-20230428004247371.png)
+![image-20230428004247371]({{site.url}}/images/2023-04-27-prototype/image-20230428004247371.png)
 
 **이렇게 인스턴스에서 생성자의 [[Prototype]]을 타고 올라가며 프로퍼티를 탐색하는 현상을 프로토타입 체인이라고 합니다.**
 
-![image-20230428005115220](./../images/2023-04-27-prototype/image-20230428005115220.png)
+![image-20230428005115220]({{site.url}}/images/2023-04-27-prototype/image-20230428005115220.png)
