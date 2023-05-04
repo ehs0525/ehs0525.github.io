@@ -12,7 +12,7 @@ sidebar:
 
 # 웹 브라우저의 기본적인 구조
 
-![image-20230505002140775]({{site.url}}/images/2023-05-05-browser-rendering/image-20230505002140775.png) {: .align-center}
+![image-20230505002140775]({{site.url}}/images/2023-05-05-browser-rendering/image-20230505002140775.png){: .align-center}
 
 - 사용자 인터페이스 : 주소창, 뒤로가기/앞으로가기 버튼, 즐겨찾기 버튼, 새로고침 버튼 등 웹 페이지에서 보이는 부분 외의 영역
 - 브라우저 엔진 : 사용자 인터페이스와 렌더링 엔진을 중개
