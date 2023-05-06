@@ -12,7 +12,7 @@ sidebar:
 
 
 
-자바스크립트로 DOM을 만들고 추가하는 일반적인 방법은 document.createElement()로 생성하고 appendChild()를 이용해 바로 등록을 하는 방법입니다. 이때 DocumentFragment 노드를 사용하면 오직 메모리상에만 존재하는 경량화된 DOM을 만들 수 있습니다.
+자바스크립트로 DOM을 만들고 추가하는 일반적인 방법은 document.createElement()로 생성하고 appendChild()를 이용해 바로 등록을 하는 방법입니다. 이때 DocumentFragment 노드를 사용하면 **오직 메모리상에만 존재하는 경량화된 DOM**을 만들 수 있습니다.
 
 ```html
 .
